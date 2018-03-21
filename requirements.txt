@@ -1,1 +1,5 @@
 Django
+django-location-field
+Pillow
+djangorestframework
+
